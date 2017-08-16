@@ -1,4 +1,4 @@
-<img src="http://logon1.shbp7.com/logo.jpg" width=200>
+<img src="http://logon1.shbp7.com/game/images/icon/zxnn.jpg" width=200>
 
 掌心游戏-掌心牛牛
 
